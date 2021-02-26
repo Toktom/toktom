@@ -1,16 +1,36 @@
-### Hi there 👋
+![GitHub followers](https://img.shields.io/github/followers/Toktom?style=social)
 
-<!--
-**Toktom/toktom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello, it is me, Toktom 👋
 
-Here are some ideas to get you started:
+## I'm a programmer and acoustical engineer student!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I study acoustical engineering at UFSM (it is in Brazil)
+- 🎮 I messing around with minecraft modding
+- ⚡ Fun fact: I love Runescape
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>][vscode]
+[<img align="left" alt="Java" width="26px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>][java]
+[<img align="left" alt="C" width="26px" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>][C]
+[<img align="left" alt="Python" width="26px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>][python]
+
+<br/>
+
+<details>
+    <summary>:zap: Recent Github Activity</summary>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+</details>
+
+<details>
+    <summary>:zap: Github Stats</summary>
+    <img align="left" alt="Toktom's GitHub Stats" src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=Toktom&show_icons=true&hide_border=true&theme=dark"/>
+</details>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toktom&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[vscode]: https://code.visualstudio.com
+[java]: https://www.java.com
+
+[python]: https://www.python.org
