@@ -17,17 +17,7 @@
 <br/>
 <br/>
 
-
-<details>
-    <summary>:zap: Recent Github Activity</summary>
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-</details>
-
-<details>
-    <summary>:zap: Github Stats</summary>
-    <img align="left" alt="Toktom's GitHub Stats" src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=Toktom&show_icons=true&hide_border=true&theme=dark"/>
-</details>
+[<img align="left" alt="Toktom's GitHub Stats" src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=Toktom&show_icons=true&hide_border=true&theme=dark"/>]
 
 <br/>
 
