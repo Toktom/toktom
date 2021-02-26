@@ -12,7 +12,7 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>][vscode]
 [<img align="left" alt="Java" width="26px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>][java]
-[<img align="left" alt="C" width="26px" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>][C]
+[<img align="left" alt="C" width="26px" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>][c]
 [<img align="left" alt="Python" width="26px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>][python]
 
 <br/>
