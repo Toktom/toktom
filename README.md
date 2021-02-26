@@ -28,6 +28,9 @@
     <img align="left" alt="Toktom's GitHub Stats" src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=Toktom&show_icons=true&hide_border=true&theme=dark"/>
 </details>
 
+<br/>
+<br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toktom&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [vscode]: https://code.visualstudio.com
