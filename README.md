@@ -17,7 +17,7 @@
 <br/>
 <br/>
 
-[<img align="left" alt="Toktom's GitHub Stats" src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=Toktom&show_icons=true&hide_border=true&theme=dark"/>]
+<img align="left" alt="Toktom's GitHub Stats" src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=Toktom&show_icons=true&hide_border=true&theme=dark"/>
 
 <br/>
 
@@ -25,5 +25,4 @@
 
 [vscode]: https://code.visualstudio.com
 [java]: https://www.java.com
-
 [python]: https://www.python.org
