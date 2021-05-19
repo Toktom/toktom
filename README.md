@@ -5,7 +5,6 @@
 ## I'm a programmer and acoustical engineer student!
 
 - 🎓 I study acoustical engineering at UFSM (it is in Brazil)
-- 🎮 I'm messing around with minecraft modding and godot engine
 - ⚡ Fun fact: I love Runescape
 
 ### Languages and Tools:
