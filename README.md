@@ -1,6 +1,12 @@
 ![GitHub followers](https://img.shields.io/github/followers/Toktom?style=social)
 
 ### Hello, it is me, Toktom 👋
+<div>
+  <a href = 'https://www.researchgate.net/profile/Michael-Ackermann-3'>
+    <img width = 90 max-length = '100%' src = 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROf7-qchwBkDqLkqOkfvGtetebQsda8FnS7A&usqp=CAU'/>
+  </a>
+</div>
+
 
 ## I'm a programmer and acoustical engineer student!
 
@@ -8,6 +14,7 @@
 - ⚡ Fun fact: I love Runescape
 
 ### Languages and Tools:
+
 
 [<img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>][vscode]
 [<img align="left" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>][java]
