@@ -1,6 +1,6 @@
 # Hello, it is me, Toktom 👋
 
-My real name is Michael Markus Ackermann and I'm an acoustic engineering student at the Federal University of Santa Maria (UFSM) located in south Brazil.
+My real name is Michael Markus Ackermann and I'm an acoustical engineering student at the Federal University of Santa Maria (UFSM) located in south Brazil.
 
 [<img align="left" alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white"/>][ResearchGate]
 <br/>
