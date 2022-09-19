@@ -5,6 +5,8 @@ My real name is Michael Markus Ackermann and I'm an acoustical engineering stude
 [<img align="left" alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white"/>][ResearchGate]
 <br/>
 
+__I have published my first article: [Integration of multiple toolboxes for application in beamforming and aeroacoustics](https://bit.ly/fia2022-augen) !__
+
 ## I'm a programmer and a gamer
 
 - ⚡ I am enthusiastic to learn new programming languages. Lately I've been learning Julia, Lua and C++.
