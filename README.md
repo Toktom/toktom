@@ -1,6 +1,8 @@
 # Hello, it is me, Toktom 👋
 
-My real name is Michael Markus Ackermann and I'm an acoustical engineering student at the Federal University of Santa Maria (UFSM) located in south Brazil.
+My real name is Michael Markus Ackermann and I'm an acoustical engineering student at the Federal University of Santa Maria (UFSM) located in south Brazil. I'm also the creator and main developer of __[Augen](https://github.com/eac-ufsm/augen)__.
+
+
 
 [<img align="left" alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white"/>][ResearchGate]
 <br/>
@@ -10,7 +12,8 @@ __I have published my first article: [Integration of multiple toolboxes for appl
 ## I'm a programmer and a gamer
 
 - ⚡ I am enthusiastic to learn new programming languages. Lately I've been learning Julia, Lua and C++.
-- :heart: Fun fact: I love Runescape
+- :book: In general I like to learn new things (languages and skills with the most diverse softwares).
+- :heart: Fun fact: I love Runescape.
 
 ## Knowledge:
 
