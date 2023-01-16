@@ -6,7 +6,7 @@
 
 My real name is Michael Markus Ackermann and I'm an acoustical engineering student at the Federal University of Santa Maria (UFSM) located in south Brazil. I'm also the creator and main developer of __[Augen](https://github.com/eac-ufsm/augen)__.
 
-__I have published my first article: [Integration of multiple toolboxes for application in beamforming and aeroacoustics](https://bit.ly/fia2022-augen) !__
+__I have published my second article: [Vessel detection via underwater signals: spectral analyses of measured and simulated data](https://bit.ly/etas2022-underwater) !__
 
 ## I'm a programmer and a gamer
 
