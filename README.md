@@ -4,9 +4,7 @@
 [<img align="left" alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white"/>][ResearchGate]
 </br>
 
-My real name is Michael Markus Ackermann and I'm an acoustical engineering student at the Federal University of Santa Maria (UFSM) located in south Brazil. I'm also the creator and main developer of __[Augen](https://github.com/eac-ufsm/augen)__.
-
-__I have published my second article: [Vessel detection via underwater signals: spectral analyses of measured and simulated data](https://bit.ly/etas2022-underwater) !__
+Hello, I'm Michael and an acoustical engineering student at the Federal University of Santa Maria (UFSM), located in south Brazil. Moreover, I'm also the creator and main developer of __[Augen](https://github.com/eac-ufsm/augen)__.
 
 ## I'm a programmer and a gamer
 
