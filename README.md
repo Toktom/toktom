@@ -4,12 +4,13 @@
 [<img align="left" alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white"/>][ResearchGate]
 </br>
 
-Hello, I'm Michael and an acoustical engineering student at the Federal University of Santa Maria (UFSM), located in south Brazil. Moreover, I'm also the creator and main developer of __[Augen](https://github.com/eac-ufsm/augen)__.
+Hello, I'm Michael and an acoustical engineering student at the Federal University of Santa Maria (UFSM), located in south Brazil.
 
 ## I'm a programmer and a gamer
 
-- ⚡ I am enthusiastic to learn new programming languages. Lately I've been learning Julia, Lua and C++.
+- ⚡ I am enthusiastic to learn new programming languages. 
 - :book: In general I like to learn new things (languages and skills with the most diverse softwares).
+- :camera_flash: I work with acoustical cameras, by taking pictures from the sound.
 - :heart: Fun fact: I love Runescape.
 
 ## Knowledge:
@@ -30,13 +31,12 @@ Hello, I'm Michael and an acoustical engineering student at the Federal Universi
 <br/>
 
 
-**Languages:**
+**Programming ganguages:**
 <br/>
 [<img align="left" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>][python]
 [<img align="left" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>][cpp]
 [<img align="left" alt="Latex" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>][latex]
 [<img align="left" alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>][markdown]
-[<img align="left" alt="Julia" src="https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white"/>][julia]
 <br/>
 
 [ResearchGate]: https://www.researchgate.net/profile/Michael-Ackermann-3
@@ -54,4 +54,3 @@ Hello, I'm Michael and an acoustical engineering student at the Federal Universi
 [cpp]: https://isocpp.org/
 [markdown]: https://www.markdownguide.org/basic-syntax/
 [latex]: https://www.overleaf.com/
-[julia]: https://julialang.org/
