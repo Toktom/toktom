@@ -31,7 +31,7 @@ Hello, I'm Michael and an acoustical engineering student at the Federal Universi
 <br/>
 
 
-**Programming ganguages:**
+**Programming languages:**
 <br/>
 [<img align="left" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>][python]
 [<img align="left" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>][cpp]
