@@ -4,7 +4,7 @@
 [<img align="left" alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white"/>][ResearchGate]
 </br>
 
-Hello, I'm an Acoustical Engineer from the Acoustical Engineering Program of the Federal University of Santa Maria, in Brazil.
+Halli hallo, I'm an acoustical engineer working as research assistant at the GFaI e.V. Acoustic Camera deparment.
 
 ## I'm a programmer and a gamer
 
