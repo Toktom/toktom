@@ -4,7 +4,7 @@
 [<img align="left" alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white"/>][ResearchGate]
 </br>
 
-Halli hallo, I'm an acoustical engineer working as research assistant at the GFaI e.V. Acoustic Camera deparment.
+Halli hallo, I'm an acoustical engineer working as researcher at the Acoustic Camera department from the GFaI e.V..
 
 ## I'm a programmer and a gamer
 
